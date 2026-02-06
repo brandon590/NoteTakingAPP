@@ -42,3 +42,9 @@ Dark Mode
 
 2. The new note was created and can be seen in the main note menu. 
 <img width="1172" height="918" alt="Image" src="https://github.com/user-attachments/assets/5a37bac5-17f9-4f25-b754-832531a1809b" />
+
+1. Swipe left to delete a note.
+<img width="1286" height="943" alt="Image" src="https://github.com/user-attachments/assets/36261c41-97a8-4a41-a477-5e787a70ef9f" />
+
+2. Clicked on the trash icon and the third note was deleted. 
+<img width="1439" height="938" alt="Image" src="https://github.com/user-attachments/assets/9dfd318f-de55-4629-b5ff-92f87a8ceb09" />
