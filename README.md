@@ -6,13 +6,14 @@ Dark Mode
 <img width="1285" height="934" alt="Image" src="https://github.com/user-attachments/assets/a04cff12-4996-49c1-a62d-c1c0c32d9c44" />
 
 
-1. Note one current contents displayed 
+1. Note one current contents displayed
+<img width="1222" height="932" alt="Image" src="https://github.com/user-attachments/assets/e58e2603-f2bc-45d7-b86d-b2ea01f444b1" />
 
 
 2. Edit Note button clicked and switched to edit screen and add one to "Math Test"
+<img width="1173" height="910" alt="Image" src="https://github.com/user-attachments/assets/09786271-b7bb-496b-a4a1-0f50e5e61790" />
 
-
-3. Saved button clicked and the add contents is now saved to the note. 
+4. Saved button clicked and the add contents is now saved to the note. 
 
 
 
