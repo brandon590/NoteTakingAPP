@@ -30,15 +30,15 @@ Dark Mode
 
 
 3. The Mark Incomplete button is clicked on, and all the mark complete changes are removed. 
-
+<img width="1186" height="922" alt="Image" src="https://github.com/user-attachments/assets/2f120254-3ff2-49ac-93e5-c4f2c83dd90c" />
 
 
 4. The green checkmark and the mark complete changes are removed from the main note menu.
-
+<img width="1282" height="917" alt="Image" src="https://github.com/user-attachments/assets/50a932df-282c-42b3-91e8-46f4926dc603" />
 
 
 1. The plus sign button was clicked, and it opened up the new note window. I added contents to the note and clicked on the save button.
-
+<img width="1235" height="900" alt="Image" src="https://github.com/user-attachments/assets/e8d68a95-39fc-41ed-9f4c-de8c1264b36b" />
 
 2. The new note was created and can be seen in the main note menu. 
-
+<img width="1172" height="918" alt="Image" src="https://github.com/user-attachments/assets/5a37bac5-17f9-4f25-b754-832531a1809b" />
