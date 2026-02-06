@@ -14,14 +14,18 @@ Dark Mode
 <img width="1173" height="910" alt="Image" src="https://github.com/user-attachments/assets/09786271-b7bb-496b-a4a1-0f50e5e61790" />
 
 4. Saved button clicked and the add contents is now saved to the note. 
+<img width="1211" height="929" alt="Image" src="https://github.com/user-attachments/assets/d2a95ee2-9b39-4273-a2bd-e530206a8333" />
+
+
 
 
 
 1. The Mark complete button is clicked on, and the Note title "Math Test One" font color changes to red, italics, and a red line goes through the middle with a celebration emoji appearing in the middle. The mark complete button changes to an orange background, and the wording changes to "Mark Incomplete".
-
+<img width="1265" height="928" alt="Image" src="https://github.com/user-attachments/assets/283182df-3980-4549-aa50-1f8e3f08e5ce" />
 
 2. A green checkmark shows up on the right side of the note when it's marked complete, and "Math Test One" is red, italicized, and has a red line through the middle. 
 
+<img width="1355" height="918" alt="Image" src="https://github.com/user-attachments/assets/7f46a11d-e41c-467f-9214-4b2119da590b" />
 
 
 
