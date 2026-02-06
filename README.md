@@ -1,8 +1,9 @@
 1. Light Mode
+<img width="1373" height="931" alt="Image" src="https://github.com/user-attachments/assets/03032caa-7206-4565-b217-fe933af04bc1" />
 
 
 Dark Mode
-
+<img width="1285" height="934" alt="Image" src="https://github.com/user-attachments/assets/a04cff12-4996-49c1-a62d-c1c0c32d9c44" />
 
 
 1. Note one current contents displayed 
